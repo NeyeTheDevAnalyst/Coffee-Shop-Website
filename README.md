@@ -72,7 +72,7 @@ coffee-website/
 - Add user authentication
 
 ## How to Run the Project
-
+- Link: https://neyethedevanalyst.github.io/Coffee-Shop-Website/
 
 ### Author
 
