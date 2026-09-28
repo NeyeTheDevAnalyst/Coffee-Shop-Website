@@ -13,7 +13,7 @@ JavaScript is used primarily to create an interactive mobile navigation menu and
 ![App image](images/coffeeweb.png)
 
 ## Live Demo
-[View The Live Coffee Website](https://neyethedevanalyst.github.io/Coffee-Shop-Website/)
+[View The Coffee Website Live](https://neyethedevanalyst.github.io/Coffee-Shop-Website/)
 
 ## Features
 - Coffee shop landing page
