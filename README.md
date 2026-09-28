@@ -1,13 +1,19 @@
 # Coffee-Shop-Website
 A responsive and visually appealing coffee shop website built with HTML, CSS, and JavaScript. The website features a modern coffee-themed design, responsive navigation, and an interactive slider for showcasing content.
 
-## 📌 About the Project
+## About the Project
 
 This project is a front-end coffee shop website created to practice building a complete, responsive website using HTML, CSS, and JavaScript.
 
 The website includes a navigation bar, hero section, coffee menu, about section, testimonials/slider content, and other sections designed to provide visitors with information about the coffee shop.
 
 JavaScript is used primarily to create an interactive mobile navigation menu and initialize a Swiper slider with pagination, navigation arrows, looping, and responsive breakpoints.
+
+## Preview
+![App image](images/coffeeweb.png)
+
+## Live Demo
+[View The Live Coffee Website](https://neyethedevanalyst.github.io/Coffee-Shop-Website/)
 
 ## Features
 - Coffee shop landing page
