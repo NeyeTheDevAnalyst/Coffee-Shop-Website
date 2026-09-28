@@ -78,7 +78,13 @@ coffee-website/
 - Add user authentication
 
 ## How to Run the Project
-- Link: https://neyethedevanalyst.github.io/Coffee-Shop-Website/
+1. Clone the repository
+git clone https://github.com/yourusername/coffee-website.git
+2. Open the project
+
+Navigate to the project folder and open it in VS Code.
+
+You can use Live Server to launch the website in your browser.
 
 ### Author
 
